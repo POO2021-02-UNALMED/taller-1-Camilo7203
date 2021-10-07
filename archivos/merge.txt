@@ -1,1 +1,3 @@
 Juan Camilo Restrepo Herrera, 19 años y aprender sobre la programacion orientada a objetos
+No se puede cargar una carpeta que esta vacia
+Por que se pueden presentar errores al intental subirlos
