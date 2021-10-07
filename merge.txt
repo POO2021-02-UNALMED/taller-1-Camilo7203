@@ -1,0 +1,2 @@
+¿Porqué ahora si puedo crear un commit y subir la carpeta?
+r/Por que ya si tiene archivos y no es una carpeta vacia
